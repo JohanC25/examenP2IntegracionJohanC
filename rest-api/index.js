@@ -204,3 +204,5 @@ app.listen(3002, () => {
     console.log('REST API running on port 3002');
     console.log('Swagger Docs available at http://localhost:3002/api-docs');
 });
+
+//Cambios para commit debido a error
